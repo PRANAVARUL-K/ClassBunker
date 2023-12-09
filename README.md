@@ -11,17 +11,32 @@ This is a simple console-based Attendance Management System implemented in C++.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Project Description
 
-This Attendance Management System allows users to keep track of student attendance, view attendance reports, and perform administrative tasks. It is implemented with a console interface and includes features for both administrators and students.
+The Attendance Management System is a console-based application implemented in C++. The primary goal of this system is to streamline attendance tracking for educational institutions. The system caters to both administrators and students, providing essential features for efficient attendance management.
 
-## Features
+### Key Features:
 
-- User authentication for administrators and students
-- Student registration and profile management
-- Attendance recording and reporting
-- Timetable management
-- Password change functionality
+- **User Authentication:**
+  - Separate login interfaces for administrators and students.
+  - Secure authentication to ensure data privacy.
+
+- **Student Management:**
+  - Registration and profile management for students.
+  - Roll number assignment and course information.
+
+- **Attendance Tracking:**
+  - Period-wise attendance recording.
+  - Calculation of attendance percentage for each student.
+
+- **Administrative Tasks:**
+  - Viewing and updating attendance records.
+  - Adding new students to the system.
+  - Timetable management for efficient scheduling.
+
+- **User-Friendly Interface:**
+  - Console-based interface for ease of use.
+  - Intuitive options for quick navigation.
 
 ## Requirements
 
