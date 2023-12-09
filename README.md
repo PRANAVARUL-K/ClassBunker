@@ -1,7 +1,4 @@
-Sure, here's a README file template that you can use for your GitHub repository:
-
-```markdown
-# Attendance Management System
+## Attendance Management System
 
 This is a simple console-based Attendance Management System implemented in C++.
 
