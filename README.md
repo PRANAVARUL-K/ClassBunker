@@ -33,7 +33,7 @@ This Attendance Management System allows users to keep track of student attendan
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/your-username/attendance-management-system.git
+   git clone https://github.com/PRANAVARUL-K/ClassBunker.git
    ```
 
 2. Navigate to the project directory.
