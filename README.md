@@ -63,7 +63,7 @@ The Attendance Management System is a console-based application implemented in C
 
 4. Run the executable.
    ```bash
-   ./attendance_system
+   ./TruancyGuardian
    ```
 
 ## File Structure
