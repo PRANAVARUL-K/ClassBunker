@@ -53,7 +53,7 @@ The Attendance Management System is a console-based application implemented in C
 
 2. Navigate to the project directory.
    ```bash
-   cd attendance-management-system
+   cd ClassBunker
    ```
 
 3. Compile the code.
